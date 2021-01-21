@@ -2,17 +2,6 @@
 
 ## [2019](http://even3.com.br/iftech19/)
 
-<<<<<<< HEAD
-- [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
-
-- [Redes Neurais: From Zero to Hero](https://github.com/WeslleyCSantos/Notebooks) ([Weslley da Cunha](https://www.linkedin.com/in/weslley-cunha-santos), [Mariana Barros](https://www.linkedin.com/in/mariana-barros-da-nobrega) )
-
-## [2018](http://even3.com.br/iftech2018/)
-
-- [My kid Api com Django](https://rencesar.github.io/create-api-django-rest/) ([Renato César](https://www.linkedin.com/in/renatocesarlira/))
-- [Kung Fu Pandas](https://github.com/elileal/kungfu_Pandas) ([Eliabe Leal](https://www.linkedin.com/in/eliabe-leal-9499a5162/), [Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/))
-- [Git e Github](https://github.com/FabricioLiber/Git-e-Github) ([Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Kamila Porto](https://www.linkedin.com/in/kmlporto/))
-=======
 - [API RESTful Node.js + PostgreSQL](https://github.com/guigomes94/minicurso-node-postgres) ([Danilo Marques](https://www.linkedin.com/in/danilo-marques-de-oliveira-14b25b136/), [Guilherme Gomes](https://www.linkedin.com/in/guilherme-gomes-3a1a57185/))
 - [Automatizando Testes em Dispositivos Móveis](https://github.com/maluqueiroz/minicurso-testes) ([Kamila Porto](https://www.linkedin.com/in/kmlporto), [Maria Luísa Queiroz](https://www.linkedin.com/in/maria-lu%C3%ADsa-queiroz-de-brito-4b6424114/))
 - [CI/CD utilizando GitLab CI e Ansible](https://github.com/EdsonLuisVieira/iftech19) ([Edson Vieira](https://www.linkedin.com/in/edson-luis-vieira-de-almeida-114303121/))
@@ -42,4 +31,3 @@
 - [Kung Fu Pandas](https://github.com/elileal/kungfu_Pandas) ([Eliabe Leal](https://www.linkedin.com/in/eliabe-leal-9499a5162/), [Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/))
 - [My kid Api com Django](https://rencesar.github.io/create-api-django-rest/) ([Renato César](https://www.linkedin.com/in/renatocesarlira/))
 
->>>>>>> 369f0b333d88f8ad61735a6fa679d26e18d356ce
