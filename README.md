@@ -4,6 +4,8 @@
 
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
 
+- [Redes Neurais: From Zero to Hero](https://github.com/WeslleyCSantos/Notebooks) ([Weslley da Cunha](https://www.linkedin.com/in/weslley-cunha-santos), [Mariana Barros](https://www.linkedin.com/in/mariana-barros-da-nobrega) )
+
 ## [2018](http://even3.com.br/iftech2018/)
 
 - [My kid Api com Django](https://rencesar.github.io/create-api-django-rest/) ([Renato César](https://www.linkedin.com/in/renatocesarlira/))
